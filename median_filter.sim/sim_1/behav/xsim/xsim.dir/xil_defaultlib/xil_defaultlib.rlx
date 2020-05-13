@@ -1,0 +1,8 @@
+0.6
+2019.2
+Nov  6 2019
+21:42:20
+/run/media/azyrus66/7BB2C443420981BB/Development/VivadoProjects/median_filter/median_filter.srcs/sim_1/new/median_filter_tb.vhd,1589311881,vhdl,,,,median_filter_tb,,,,,,,,
+/run/media/azyrus66/7BB2C443420981BB/Development/VivadoProjects/median_filter/median_filter.srcs/sources_1/new/median_filter.vhd,1589186306,vhdl,,,,median_filter,,,,,,,,
+/run/media/azyrus66/7BB2C443420981BB/Development/VivadoProjects/median_filter/median_filter.srcs/sources_1/new/sorter.vhd,1589311871,vhdl,,,,sorter,,,,,,,,
+/run/media/azyrus66/7BB2C443420981BB/Development/VivadoProjects/median_filter/median_filter.srcs/sources_1/new/type_def.vhd,1588586758,vhdl,/run/media/azyrus66/7BB2C443420981BB/Development/VivadoProjects/median_filter/median_filter.srcs/sim_1/new/median_filter_tb.vhd;/run/media/azyrus66/7BB2C443420981BB/Development/VivadoProjects/median_filter/median_filter.srcs/sources_1/new/sorter.vhd,,,type_def,,,,,,,,

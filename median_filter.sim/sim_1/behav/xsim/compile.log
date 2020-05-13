@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "/run/media/azyrus66/7BB2C443420981BB/Development/VivadoProjects/median_filter/median_filter.srcs/sources_1/new/sorter.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'sorter'
+INFO: [VRFC 10-163] Analyzing VHDL file "/run/media/azyrus66/7BB2C443420981BB/Development/VivadoProjects/median_filter/median_filter.srcs/sim_1/new/median_filter_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'median_filter_tb'
